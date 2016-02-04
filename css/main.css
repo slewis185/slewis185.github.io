@@ -195,14 +195,14 @@ cream #f2dcbc )
 
 /* site body*/
 body {
-   background-color: #2f3a39;
-  color: #999;
+   background-color: #999;
+  color: #1f1f1f;
 }
 
 /* green header */
 header {
-    background: linear-gradient(black, orange);
-    border-color: #599a68;
+    background: #57c8a9;
+    border-color: #2f3a39;
 }
 
 /* nav background on mobile */
@@ -227,5 +227,5 @@ nav a, nav a:visited {
 
 /* selected nav link */
 nav a.selected, nav a:hover {
-  color: #32673f;
+  color: #000000;
 }
