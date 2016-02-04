@@ -165,33 +165,7 @@ PAGE: CONTACT
 
 
 /********************************************************
-THESE NEED PICTURES UPLOADED
 
-
-.contact-info li.phone a {
-  background-image:url('../img/phone.png');
-}
-
-.contact-info li.mail a {
-  background-image:url('../img/mail.png');
-}
-
-.contact-info li.instagram a {
-  background-image:url('../img/twitter.png');
-}
-
-**********************************************************/
-
-
-/**************************************
-COLORS 
-(palette: 
-black #2f3a39 
-greens #5f9787 #57c8a9 #39b2cc 
-orange #eb8548 
-blues #ccacd #629fce 
-cream #f2dcbc )
-***************************************/
 
 /* site body*/
 body {
@@ -207,7 +181,7 @@ header {
 
 /* nav background on mobile */
 nav {
-  background:black;
+  background:#4fc4a3;
 }
 
 /* logo text */
