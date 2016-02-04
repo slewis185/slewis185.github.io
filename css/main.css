@@ -195,14 +195,14 @@ cream #f2dcbc )
 
 /* site body*/
 body {
-   background-color: #999;
+   background-color: #868686;
   color: #1f1f1f;
 }
 
-/* green header */
+/* header */
 header {
-    background: #57c8a9;
-    border-color: #2e3837;
+    background: #43af90;
+    border-color: black;
 }
 
 /* nav background on mobile */
