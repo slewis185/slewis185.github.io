@@ -202,12 +202,12 @@ body {
 /* green header */
 header {
     background: #57c8a9;
-    border-color: #2f3a39;
+    border-color: #2e3837;
 }
 
 /* nav background on mobile */
 nav {
-  background:#599a68;
+  background:black;
 }
 
 /* logo text */
@@ -217,7 +217,7 @@ h1, h2 {
 
 /* links */
 a {
-  color:#6ab47b;
+  color:black;
 }
 
 /* nav link */
