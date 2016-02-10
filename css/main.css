@@ -8,7 +8,9 @@ body {
     color: #e8eaea;
 }
 
-
+a{
+    color: aliceblue;
+}
 
 /**************************************
 HEADING
@@ -27,7 +29,7 @@ h2 {
 
 .steve {
     margin-top: 0;
-    padding: 1em 0 3em;
+    padding: 1em 0 20px;
     font-size: 7em;
     text-align: center;
 }
@@ -51,15 +53,12 @@ h2 {
     text-align: center;
 }
 
-.lastp {
-    font-size: 25px;
-    margin: auto;
+p {
+    text-align: center;
+    font-size: 20px;
     padding: 20px;
-}
-
-p{
-   margin: 10px;
-    width: 100%;
+    text-shadow: 4px 1px 10px #111;
+    
 }
 
 /**************************************
