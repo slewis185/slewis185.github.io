@@ -132,8 +132,9 @@ Pages
     margin: 0 -10px;
 }
 .me {
-    
-    margin: 10px 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 10%;
     width: 15em;
     box-shadow: 10px 10px 30px #222;
