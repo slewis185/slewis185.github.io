@@ -8,9 +8,6 @@ body {
     color: #e8eaea;
 }
 
-a{
-    color: aliceblue;
-}
 
 /**************************************
 HEADING
@@ -107,7 +104,9 @@ li a:hover {
 }
 
 
-
+#instagram {
+    float: right;
+}
 
 
 /**************************************
