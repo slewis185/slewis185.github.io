@@ -21,9 +21,13 @@ header {
   padding: 15px 0 0 0;
   width:100%;
 }
+h2 {
+    text-align: center;
+}
+
 .steve {
     margin-top: 0;
-    padding: 1em 0 0 0;
+    padding: 1em 0 3em;
     font-size: 7em;
     text-align: center;
 }
@@ -33,12 +37,26 @@ header {
     font-size: 3em;
     text-align: center;
 }
+
+.construction {
+    padding: 2em 0 0 0;
+    text-align: center;
+    font-size: 6em;
+}
+
 .contact {
     margin-top: 0;
     padding: 1.8em 0 0 0;
     font-size: 3em;
     text-align: center;
 }
+
+.lastp {
+    font-size: 25px;
+    margin: auto;
+    padding: 20px;
+}
+
 p{
    margin: 10px;
     width: 100%;
@@ -80,7 +98,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 19px 16px 13px;
     text-decoration: none;
 }
 
@@ -98,7 +116,7 @@ Pages
 ***************************************/
 #page1 {
     background: url(/img/sky.jpg) no-repeat;
-    height: 800px;
+    height: 790px;
     margin: -20px -10px 0;
  }
 
@@ -106,13 +124,13 @@ Pages
 #page2 {
     background: url(/img/blurrLights.jpg) no-repeat;
     background-color: #a4cfd0;
-    height: 800px;
+    height: 790px;
     margin: 0 -10px;
 }
 
 #page3 {
-    background: url(/img/grass.jpg) no-repeat;
-    height: 800px;
+    background: url(/img/wood.jpg) no-repeat;
+    height: 790px;
     margin: 0 -10px;
 }
 .me {
