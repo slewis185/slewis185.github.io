@@ -8,7 +8,7 @@ body {
     color: #e8eaea;
 }
 #wrap {
-    width: 1260px;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -103,34 +103,28 @@ li a {
 
 li a:hover {
     background-color: #5fff5a;
-    color: black;
-}
-
-
-#instagram {
-    float: right;
-}
+    color: black;}
 
 
 /**************************************
 Pages
 ***************************************/
 #page1 {
-    background: url(/img/sky.jpg) no-repeat;
+    background: url(/img/sky.jpg) no-repeat center;
     height: 790px;
     margin: -20px -10px 0;
  }
 
 
 #page2 {
-    background: url(/img/blurrLights.jpg) no-repeat;
+    background: url(/img/blurrLights.jpg) no-repeat center;
     background-color: #a4cfd0;
     height: 790px;
     margin: 0 -10px;
 }
 
 #page3 {
-    background: url(/img/wood.jpg) no-repeat;
+    background: url(/img/wood.jpg) no-repeat center;
     height: 790px;
     margin: 0 -10px;
 }
@@ -142,5 +136,3 @@ Pages
     width: 15em;
     box-shadow: 10px 10px 30px #222;
 }
-
-/********************************************************
