@@ -7,6 +7,12 @@ body {
     font-family: 'Work Sans', sans-serif;
     color: #e8eaea;
 }
+a {
+    color: #e8eaea;
+}
+
+
+
 #wrap {
     width: 100%;
     margin: 0 auto;
@@ -28,7 +34,7 @@ h2 {
 }
 
 .steve {
-    margin-top: 0;
+    margin-top: 10px;
     padding: 1em 0 20px;
     font-size: 7em;
     text-align: center;
@@ -109,16 +115,27 @@ li a:hover {
 /**************************************
 Pages
 ***************************************/
-#page1 {
-    background: url(/img/sky.jpg) no-repeat center;
+#hero{
+    background: url(/img/computer3.jpg) no-repeat center;
+    background-size: cover;
     height: 790px;
     margin: -20px -10px 0;
- }
+}
+#page1 {
+    border-style: solid;
+    border-width: 3px 0;
+    border-color: #333;
+    background: #212124;
+    height: 790px;
+    margin: 0 -10px;
+} 
 
 
 #page2 {
-    background: url(/img/blurrLights.jpg) no-repeat center;
-    background-color: #a4cfd0;
+    border-style: solid;
+    border-width: 3px 0;
+    border-color: #333;
+    background: #212124;
     height: 790px;
     margin: 0 -10px;
 }
