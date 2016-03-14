@@ -123,7 +123,10 @@ li a:hover {
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px){
     li {
-        float: none;}
+       float: none;
+        display: inline-block;
+        border: none;
+    }
 }
 /*************************************************
 CodePen boxes 
