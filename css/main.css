@@ -86,7 +86,6 @@ NAVIGATION ATTRIBUTES
     color: #e8eaea;
     text-align:center;
     height: 70px;
-   align-items: 
 }
 
 
@@ -122,6 +121,10 @@ li a:hover {
     background-color: #5fff5a;
     color: black;}
 
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px){
+    li {
+        float: none;}
+}
 /*************************************************
 CodePen boxes 
 **************************************************/
