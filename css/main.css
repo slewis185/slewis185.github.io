@@ -36,25 +36,19 @@ h2 {
 .steve {
     margin-top: 10px;
     padding: 1em 0 20px;
-    font-size: 6em;
+    font-size: 3em;
     text-align: center;
 }
 .work {
     margin-top: 0;
     padding: 2em 0 0 0;
-    font-size: 3em;
+    font-size: 2em;
     text-align: center;
 }
-.construction {
-    padding: 2em 0 0 0;
-    text-align: center;
-    font-size: 6em;
-}
-
 .contact {
     margin-top: 0;
     padding: 1.8em 0 0 0;
-    font-size: 3em;
+    font-size: 2em;
     text-align: center;
 }
 
@@ -150,32 +144,32 @@ Pages
     background: url(/img/computer3.jpg) no-repeat center;
     background-size: cover;
     height: 790px;
-    margin: -20px -10px 0;
+    margin: -20px 0 0;
+    
 }
 
 #page1 {
     border-style: solid;
-    border-width: 3px 0;
+    border-width: 2px 0;
     border-color: #333;
-    background: #212124;
     height: 790px;
-    margin: 0 -10px;
+    margin: 0;
 } 
 
 #page2 {
   
     border-style: solid;
-    border-width: 3px 0;
+    border-width: 2px 0;
     border-color: #333;
-    background: #212124;
     height: 790px;
-    margin: 0 -10px;
+    margin: 0;
 }
 
 #page3 {
     background: url(/img/wood.jpg) no-repeat center;
+    background-size: cover;
     height: 790px;
-    margin: 0 -10px;
+    margin: 0;
 }
 
 /***************************************************************
