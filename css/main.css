@@ -149,6 +149,8 @@ Pages
 }
 
 #page1 {
+    background: url(/img/dark-clouds-228883_1920.jpg) no-repeat center;
+    background-size: cover;
     border-style: solid;
     border-width: 2px 0;
     border-color: #333;
@@ -157,7 +159,8 @@ Pages
 } 
 
 #page2 {
-  
+    background: url(/img/blurrLights.jpg) no-repeat center;
+    background-size: cover;
     border-style: solid;
     border-width: 2px 0;
     border-color: #333;
