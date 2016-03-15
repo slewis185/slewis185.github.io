@@ -141,7 +141,7 @@ CodePen boxes
 Pages
 ***************************************/
 #hero{
-    background: url(/img/computer3.jpg) no-repeat center;
+    background: url(/img/computer3.jpg) no-repeat center ;
     background-size: cover;
     height: 790px;
     margin: -20px 0 0;
@@ -149,8 +149,6 @@ Pages
 }
 
 #page1 {
-    background: url(/img/dark-clouds-228883_1920.jpg) no-repeat center;
-    background-size: cover;
     border-style: solid;
     border-width: 2px 0;
     border-color: #333;
@@ -159,8 +157,7 @@ Pages
 } 
 
 #page2 {
-    background: url(/img/blurrLights.jpg) no-repeat center;
-    background-size: cover;
+  
     border-style: solid;
     border-width: 2px 0;
     border-color: #333;
