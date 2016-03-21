@@ -43,13 +43,13 @@ h2 {
 }
 .work {
     margin-top: 0;
-    padding: 2em 0 0 0;
+    padding: 3em 0 0 0;
     font-size: 2em;
     text-align: center;
 }
 .contact {
     margin-top: 0;
-    padding: 1.8em 0 0 0;
+    padding: 3em 0 0 0;
     font-size: 2em;
     text-align: center;
 }
@@ -183,7 +183,7 @@ pictures
     margin-left: auto;
     margin-right: auto;
     border-radius: 10%;
-    width: 15em;
+    width: 11em;
     box-shadow: 10px 10px 30px #222;
 }
 
