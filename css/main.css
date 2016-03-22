@@ -6,6 +6,8 @@ body {
     background: #292e2b;
     font-family: 'Work Sans', sans-serif;
     color: #e8eaea;
+    margin:0;
+    padding: 0;
 }
 a {
     color: #e8eaea;
@@ -21,19 +23,13 @@ HEADING
 
 
 header {
-  float:left;
-  margin: -10px;
-  padding: 15px 0 0 0;
-  width:100%;
+    float:left;
+    margin-top: -10px;    
+    padding: 0;
+    width:100%;
+    
 }
-h1{
-    padding-top:5em;
-    text-align: center;
-    font-size: 3em
-}
-h2 {
-    text-align: center;
-}
+
 
 #about {
     margin-top: 10px;
@@ -146,9 +142,25 @@ Pages
     background: url(/img/wood.jpg) no-repeat center ;
     background-size: cover;
     height: 790px;
-    margin: -20px 0 0;
-    
+    margin:0;
+    padding: 0;  
 }
+.head1{
+    margin-top: 0;
+    padding: 3em 0 0 0;
+    text-align: center;
+    text-align: center;
+    font-size: 5em;
+}
+
+.head2 {
+    margin-top: 0;
+    padding:0;
+    text-align: center;
+    text-align: center;
+    font-size: 2em;
+}
+
 
 #page1 {
     background: #584e80;
